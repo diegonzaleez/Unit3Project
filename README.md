@@ -1,2 +1,2 @@
 # Unit3Project
-Evidence of the Unit 3 project
+This is a repository regarding the IntroToProgramming Unit3 Project evidence
